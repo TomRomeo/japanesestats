@@ -3,10 +3,10 @@
 // from first grade to sixth grade
 //
 // The list has been taken from https://en.wikipedia.org/wiki/Ky%C5%8Diku_kanji
-package kyoiku
+package japanesestats
 
 import (
-	"github.com/TomRomeo/japanesestats/pkg/util"
+	"github.com/TomRomeo/japanesestats/internal/util"
 	"unicode/utf8"
 )
 

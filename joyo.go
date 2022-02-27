@@ -3,10 +3,10 @@
 // In publishing, characters outside this category are often given furigana
 //
 // The list has been taken from https://en.wikipedia.org/wiki/List_of_j%C5%8Dy%C5%8D_kanji
-package joyo
+package japanesestats
 
 import (
-	"github.com/TomRomeo/japanesestats/pkg/util"
+	"github.com/TomRomeo/japanesestats/internal/util"
 	"unicode/utf8"
 )
 
